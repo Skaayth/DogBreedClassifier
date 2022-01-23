@@ -10,8 +10,7 @@ Classifying Sceneries using DeepLearning
 ![20114](https://user-images.githubusercontent.com/78352429/150674969-b92c9eae-fd9b-4d02-bad4-8fe4551d1c39.jpg)
 ![24153](https://user-images.githubusercontent.com/78352429/150674983-7ad70f68-d54a-4726-9e92-b1616b8b0f28.jpg)
 
-BUILDINGS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; FOREST &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
- &nbsp; &nbsp; &nbsp; GLACIER &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MOUNTAIN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SEA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; STREET
+BUILDINGS , FOREST , GLACIER , MOUNTAIN , SEA , STREET
 
 ---
 ## How
